@@ -37,7 +37,7 @@
     "bulma-tooltip": "1.0.5",
     "core-js": "^2.5.7",
     "ngrx-store-localstorage": "^5.0.0",
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "rxjs": "^6.2.0",
     "sortablejs": "^1.7.0",
     "zone.js": "^0.8.26"
